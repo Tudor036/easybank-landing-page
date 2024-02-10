@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@tudor036](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@tudordev](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@tudor036](https://www.frontendmentor.io/profile/tudor036)
+- Twitter - [@tudordev](https://www.twitter.com/tudordev)
